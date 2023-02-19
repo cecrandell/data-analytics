@@ -3,6 +3,7 @@
 **Activities Included**
 
 - [01 Gradebook](/Code%20Samples/Excel/01%20Gradebook)
+- [02 Top Songs Pivot](/Code%20Samples/Excel/02%20Top%20Songs%20Pivot)
 
 **Developer**
 
