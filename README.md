@@ -7,11 +7,13 @@
 **Technologies Covered**
 
 - [Python](/Code%20Samples/Python)
+- [Pandas](/Code%20Samples/Pandas)
 - [SQL](/Code%20Samples/SQL)
 - [R](/Code%20Samples/R)
 - [Excel](/Code%20Samples/Excel)
 - [VBA](/Code%20Samples/VBA)
 - [Tableau](/Code%20Samples/Tableau)
+- [Matplotlib](/Code%20Samples/Matplotlib)
 
 **Developer**
 
