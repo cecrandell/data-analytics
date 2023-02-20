@@ -4,8 +4,12 @@ Create a RPS game that takes user input from the command line and plays against 
 
 ## Instructions
 
-* Using the Terminal, take an input of `r`, `p` or `s` which will stand for rock, paper, and scissors.
+- Using the Terminal, take an input of `r`, `p` or `s` which will stand for rock, paper, and scissors.
 
-* Have the computer randomly pick one of these three choices.
+- Have the computer randomly pick one of these three choices.
 
-* Compare the user's input to the computer's choice to determine if the user won, lost, or tied.
+- Compare the user's input to the computer's choice to determine if the user won, lost, or tied.
+
+## Completed
+
+<img src="images/rps.png" width="400" />
