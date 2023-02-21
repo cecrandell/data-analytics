@@ -2,7 +2,7 @@
 
 **Activities Included**
 
-
+- [01 NJ Temperature](/Code%20Samples/Matplotlib/01%20NJ%20Temperature)
 
 **Developer**
 
