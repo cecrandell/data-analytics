@@ -6,6 +6,7 @@
 - [02 Number Chain](/Code%20Samples/Python/02%20Number%20Chain)
 - [03 List Comprehensions](/Code%20Samples/Python/03%20List%20Comprehensions)
 - [04 Functions](/Code%20Samples/Python/04%20Functions)
+- [05 Resume Analysis](/Code%20Samples/Python/05%20Resume%20Analysis)
 
 **Developer**
 
