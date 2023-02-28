@@ -7,6 +7,7 @@
 - [03 List Comprehensions](/Code%20Samples/Python/03%20List%20Comprehensions)
 - [04 Functions](/Code%20Samples/Python/04%20Functions)
 - [05 Resume Analysis](/Code%20Samples/Python/05%20Resume%20Analysis)
+- [06 UUID Generator](/Code%20Samples/Python/06%20UUID%20Generator)
 
 **Developer**
 
