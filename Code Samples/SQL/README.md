@@ -7,7 +7,7 @@
 - [03 Joins](/Code%20Samples/SQL/03%20Joins)
 - [04 Gregarious Aggregates](/Code%20Samples/SQL/04%20Gregarious%20Aggregates)
 - [05 Mine the Subquery](/Code%20Samples/SQL/05%20Mine%20the%20Subquery)
-- [06 Data Normalization](/Code%20Samples/SQL/06%20Data%20Normalization)
+- [06 Foreign Keys](/Code%20Samples/SQL/06%20Foreign%20Keys/)
 
 **Developer**
 
