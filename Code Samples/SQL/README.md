@@ -9,6 +9,7 @@
 - [05 Mine the Subquery](/Code%20Samples/SQL/05%20Mine%20the%20Subquery)
 - [06 Foreign Keys](/Code%20Samples/SQL/06%20Foreign%20Keys/)
 - [07 Data Relationships](/Code%20Samples/SQL/07%20Data%20Relationships)
+- [08 Unions](/Code%20Samples/SQL/08%20Unions)
 
 **Developer**
 
