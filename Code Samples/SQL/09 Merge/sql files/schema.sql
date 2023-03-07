@@ -41,14 +41,16 @@ VALUES
     (2, 1, 4);
 
 CREATE TABLE Courses (
-    COURSE_ID SERIAL NOT NULL PRIMARY KEY,
+    COURSE_ID INT,
     COURSE_NAME VARCHAR(30) NOT NULL,
     COURSE_PRICE DECIMAL(10, 2) NOT NULL
 );
 
 INSERT INTO
-    Courses (COURSE_NAME, COURSE_PRICE)
+    Courses (COURSE_ID, COURSE_NAME, COURSE_PRICE)
 VALUES
-    ('SQL', 49.99),
-    ('Python', 29.99),
-    ('Excel', 35.29);
+    (1, 'SQL', 49.99),
+    (2, 'Python', 29.99),
+    (3, 'Excel', 35.29),
+    (4, 'Tableau', 55.60),
+    (5, 'MongoDB', 15.29);

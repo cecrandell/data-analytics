@@ -14,3 +14,11 @@ Barack Obama | 6466620136 | b.obama@gmail.com | 0.00
 ## Completed
 
 <img src="images/solved.png" width="400" />
+
+### Bonus
+
+Use a `MERGE` statement.
+
+Solution found [here](/Code%20Samples/SQL/09%20Merge/sql%20files/merge%20files/merge.sql)
+
+<!-- https://www.sqlshack.com/understanding-the-sql-merge-statement/ -->
