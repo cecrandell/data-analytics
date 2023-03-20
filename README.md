@@ -7,14 +7,14 @@
 **Technologies Covered**
 
 - Python - [Activities](/Code%20Samples/Python)
-- Pandas - [Activities](/Code%20Samples/Pandas)
 - SQL - [Activities](/Code%20Samples/SQL)
 - MongoDB - [Activities](/Code%20Samples/MongoDB)
-- R - [Activities](/Code%20Samples/R)
 - Excel - [Activities](/Code%20Samples/Excel)
-- VBA - [Activities](/Code%20Samples/VBA)
 - Tableau - [Activities](/Code%20Samples/Tableau)
+- Pandas - [Activities](/Code%20Samples/Pandas)
 - Matplotlib - [Activities](/Code%20Samples/Matplotlib)
+- VBA - [Activities](/Code%20Samples/VBA)
+- R - [Activities](/Code%20Samples/R) (basic)
 
 **Developer**
 
