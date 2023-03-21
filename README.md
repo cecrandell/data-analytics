@@ -12,9 +12,9 @@
 - Excel - [Activities](/Code%20Samples/Excel)
 - Tableau - [Activities](/Code%20Samples/Tableau)
 - Pandas - [Activities](/Code%20Samples/Pandas)
-- Matplotlib - [Activities](/Code%20Samples/Matplotlib)
-- VBA - [Activities](/Code%20Samples/VBA)
+- Matplotlib - [Activities](/Code%20Samples/Matplotlib) (basic)
 - R - [Activities](/Code%20Samples/R) (basic)
+- VBA - [Activities](/Code%20Samples/VBA) (basic)
 
 **Developer**
 
